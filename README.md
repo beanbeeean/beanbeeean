@@ -1,4 +1,6 @@
-![Title](./assets/title.png)
+<div align="center">
+  ![Title](./assets/title.png)  
+</div>
 <br>
 <hr>
 <br>
