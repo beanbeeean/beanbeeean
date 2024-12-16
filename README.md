@@ -1,3 +1,5 @@
+<hr>
+<br>
 <h3 align="center">✨ Skills ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
@@ -52,6 +54,7 @@
 <!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
 </div>
 
+<br>
 <br>
 
 <hr>
