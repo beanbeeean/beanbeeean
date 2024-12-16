@@ -1,6 +1,4 @@
-<div align="center">
-  <img width="800px" src="https://github.com/beanbeeean/beanbeeean/assets/info_title.png" />
-</div>
+![Title](./assets/info_title.png)
 <br>
 <hr>
 <br>
