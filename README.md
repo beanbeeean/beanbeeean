@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h3 align="center">✨ Skills ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
@@ -27,6 +25,7 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
 </div>
 
+<br>
 <br>
 
 <hr>
