@@ -1,4 +1,8 @@
-
+<div align="center">
+  <img width="800px" src="https://github.com/beanbeeean/beanbeeean/assets/info_title.png" />
+</div>
+<br>
+<hr>
 <br>
 <h3 align="center">✨ Skills ✨</h3>
 <div align="center">
