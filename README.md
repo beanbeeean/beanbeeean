@@ -1,5 +1,5 @@
 <div align="center">
-![Title](./assets/title.png)  
+  <img src="https://github.com/beanbeeean/beanbeeean/blob/main/assets/title.png" />&nbsp
 </div>
 <br>
 <hr>
