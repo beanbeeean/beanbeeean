@@ -1,4 +1,4 @@
-<hr>
+
 <br>
 <h3 align="center">✨ Skills ✨</h3>
 <div align="center">
