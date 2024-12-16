@@ -1,5 +1,5 @@
 <div align="center">
-  ![Title](./assets/title.png)  
+![Title](./assets/title.png)  
 </div>
 <br>
 <hr>
