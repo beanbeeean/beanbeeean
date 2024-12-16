@@ -1,4 +1,4 @@
-![Title](./assets/info_title.png)
+![Title](./assets/title.png)
 <br>
 <hr>
 <br>
