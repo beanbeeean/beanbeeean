@@ -31,6 +31,11 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />&nbsp
+</div>
+
 <br>
 <br>
 
@@ -67,8 +72,6 @@
 <hr>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beanbeeean)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beanbeeean&show_icons=true&theme=transparent)
 <!--
 **beanbeeean/beanbeeean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
